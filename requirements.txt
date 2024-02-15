@@ -1,4 +1,4 @@
-langchain
+langchain==0.1.7
 langgraph
 langchain_openai
 langchainhub
@@ -6,3 +6,4 @@ langsmith
 duckduckgo-search
 beautifulsoup4
 gradio
+python-dotenv
